@@ -1,4 +1,4 @@
-# [Pinguin Scripts License Agreement]
+# [Pinguin Scripts License Agreement](https://github.com/PUSCRIPTS/PINGUIN?tab=License-1-ov-file)
 
 ## Description
 Pinguin Scripts is powerful scripts designed for Roblox that enhances gameplay through Aimbot, Visuals, and Flying. With this script, you can automate various actions, go AFK, and elevate your gaming experience.
